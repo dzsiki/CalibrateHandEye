@@ -38,7 +38,7 @@ for angles in demo_rotations:
     angles_rad = np.radians(angles)
 
     # Create a Rotation object from Euler angles
-    rotation = R.from_euler('zyx', angles_rad, degrees=True)
+    rotation = R.from_euler('zyx', angles_rad, degrees=False)
 
     # Get the 3x3 rotation matrix
     rotation_matrix = rotation.as_matrix().flatten().tolist()
