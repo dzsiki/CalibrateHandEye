@@ -98,3 +98,41 @@ def findpose(middle, camerat, camerar):
     R_cam2gripper, t_cam2gripper = cv.calibrateHandEye(R_gripper2base, T_gripper2base,
                                                        rvecsarray, tvecsarray)
     return mtx, None, R_cam2gripper, t_cam2gripper
+
+def worldposecalc(fname, middle, mtx, dist, R_base2gripper, t_base2gripper, R_cam2gripper, t_cam2gripper):
+    objp = objpgen(middle)
+
+    R_base2gripper = np.array([[R_base2gripper[0], R_base2gripper[1], R_base2gripper[2]],
+                               [R_base2gripper[3], R_base2gripper[4], R_base2gripper[5]],
+                               [R_base2gripper[6], R_base2gripper[7], R_base2gripper[8]]])
+
+    t_base2gripper = np.array([[t_base2gripper[0]], [t_base2gripper[1]], [t_base2gripper[2]]])
+
+    img = cv.imread(fname)
+    imgbw = prepareimage(img)
+    ret, corners = cv.findChessboardCornersSB(imgbw, (CHECKERBOARD_HEIGHT, CHECKERBOARD_WIDTH), None)
+
+    if not ret:
+        print("Nem található a checkerboard.")
+        return
+
+    corners2 = cv.cornerSubPix(imgbw, corners, (11, 11), (-1, -1), criteria)
+    # Find the rotation and translation vectors.
+    ret, R_object2cam, t_object2cam = cv.solvePnP(objp, corners2, mtx, dist)
+
+    R_object2cam, _ = cv.Rodrigues(R_object2cam, np.eye(3))
+
+    base2gripper = np.column_stack((R_base2gripper, t_base2gripper))
+    base2gripper = np.vstack((base2gripper, [0, 0, 0, 1]))
+
+    cam2gripper = np.column_stack((R_cam2gripper, t_cam2gripper))
+    cam2gripper = np.vstack((cam2gripper, [0, 0, 0, 1]))
+
+    object2cam = np.column_stack((R_object2cam, t_object2cam))
+    object2cam = np.vstack((object2cam, [0, 0, 0, 1]))
+
+    base2object = np.dot(base2gripper, np.dot(cam2gripper, object2cam))
+
+    R_base2object = base2object[:3, :3].flatten().tolist()
+    t_base2object = base2object[:3, 3].tolist()
+    return R_base2object, t_base2object
