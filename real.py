@@ -51,3 +51,5 @@ import pose_estimation
 
 mtx, dist, R_cam2gripper, t_cam2gripper = pose_estimation.findpose(True, demo_positions, demo_rotations)
 print(t_cam2gripper)
+R_base2object, t_base2object = pose_estimation.worldposecalc("~0.png", True, mtx, dist, demo_rotations[0], demo_positions[0], R_cam2gripper, t_cam2gripper)
+print(t_base2object)
