@@ -1,0 +1,285 @@
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.AssemblyReference.cache
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.Form1.resources
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.Properties.Resources.resources
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.GenerateResource.cache
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.CoreCompileInputs.cache
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\RapidDataBinding.exe.config
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\RapidDataBinding.exe
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\RapidDataBinding.pdb
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\ABB.Robotics.Controllers.PC.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\RobotStudio.Services.RobApi.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\ABB.Robotics.Controllers.PC.xml
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.CopyComplete
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.exe
+C:\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.pdb
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Buffers.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Collections.Immutable.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.IO.Pipelines.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Memory.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Numerics.Vectors.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Reflection.Metadata.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Principal.Windows.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Encodings.Web.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Json.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.ValueTuple.dll
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Buffers.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Collections.Immutable.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.IO.Pipelines.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Memory.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Numerics.Vectors.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Reflection.Metadata.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Principal.Windows.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Encodings.Web.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Json.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Webots project\APIController\RapidDataBinding\bin\Debug\System.ValueTuple.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\RapidDataBinding.exe.config
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\RapidDataBinding.exe
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\RapidDataBinding.pdb
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Buffers.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Collections.Immutable.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.IO.Pipelines.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Memory.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Numerics.Vectors.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Reflection.Metadata.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Principal.Windows.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Encodings.Web.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Json.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.ValueTuple.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\RobotStudio.Services.RobApi.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\RobotStudio.Services.RobApi.Desktop.dll
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\ABB.Robotics.Controllers.PC.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Diagnostics.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Buffers.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Collections.Immutable.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.IO.Pipelines.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Memory.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Numerics.Vectors.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Reflection.Metadata.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Security.Principal.Windows.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Encodings.Web.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Text.Json.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\bin\Debug\System.ValueTuple.xml
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.AssemblyReference.cache
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.Form1.resources
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.Properties.Resources.resources
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.GenerateResource.cache
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.csproj.CoreCompileInputs.cache
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDat.2F24A09F.Up2Date
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.exe
+D:\minden ami szakdoga\laptop\Webots project\APIController\RapidDataBinding\obj\Debug\RapidDataBinding.pdb

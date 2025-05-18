@@ -1,0 +1,165 @@
+#VRML_SIM R2023b utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/appearances/protos/Parquetry.proto"
+EXTERNPROTO "../protos/AbbIrb140_handslot.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.32098349912698876 -0.18153827577296536 -0.9295232367819394 4.109598585521969
+  position 1.1613256106794565 -1.0249434397574835 1.1561489681426778
+}
+TexturedBackground {
+  texture "factory"
+}
+TexturedBackgroundLight {
+  texture "empty_office"
+  castShadows FALSE
+}
+RectangleArena {
+  translation 0.25 0 0
+  rotation 0 0 1 -1.5707953071795862
+  floorSize 1 1.5
+  floorAppearance Parquetry {
+    type "light strip"
+  }
+}
+DEF checkerboard Solid {
+  translation 0.568 0.05 0.006
+  rotation 0 0 -1 1.5708
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          ambientIntensity 1
+          diffuseColor 1 1 1
+          emissiveColor 1 1 1
+          shininess 0
+        }
+        texture ImageTexture {
+          url [
+            "checkerboard_radon.png"
+          ]
+          filtering 0
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Plane {
+        size 0.18 0.125
+      }
+      castShadows FALSE
+    }
+  ]
+}
+Solid {
+  translation 0.530434 0.365 0.459013
+  rotation -0.6009637149930258 -0.7069296647386859 -0.3729518231276398 -0.781855307179586
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          ambientIntensity 1
+          diffuseColor 1 1 1
+          emissiveColor 1 1 1
+          shininess 0
+        }
+        texture ImageTexture {
+          url [
+            "checkerboard_radon.png"
+          ]
+          filtering 0
+        }
+        textureTransform TextureTransform {
+        }
+      }
+      geometry Plane {
+        size 0.18 0.125
+      }
+      castShadows FALSE
+    }
+  ]
+  name "solid(2)"
+}
+DEF target1 Solid {
+  translation 0.26 0 0.11
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0.666667 0 0
+        metalness 0
+      }
+      geometry Sphere {
+        radius 0.0075
+        subdivision 5
+      }
+    }
+  ]
+  name "target1"
+}
+DEF target2 Solid {
+  translation 0.26 -0.09 0.11
+  children [
+    Shape {
+      appearance PBRAppearance {
+        baseColor 0 1 0
+        metalness 0
+      }
+      geometry Sphere {
+        radius 0.0075
+        subdivision 5
+      }
+    }
+  ]
+  name "target2"
+}
+AbbIrb140_handslot {
+  translation -0.00536634 0.0405475 -3.55271e-15
+  controller "irb140_controller"
+  supervisor TRUE
+  handSlot [
+    Camera {
+      translation -0.077 -0.015 0.06
+      rotation 0 -1 0 1.5707963
+      fieldOfView 0.785
+      width 1024
+      height 720
+    }
+    Transform {
+      translation -0.077 0 0.064
+      rotation 0 0 1 1.5707963
+      scale 0.45 0.45 0.45
+      children [
+        CadShape {
+          url [
+            "Logitech c270.obj"
+          ]
+        }
+      ]
+    }
+    Pose {
+      translation 0 0 0.006
+      children [
+        CadShape {
+          url [
+            "Megfogo_v2.dae"
+          ]
+        }
+      ]
+    }
+    Pose {
+      translation -0.096 -0.028 0.001
+      rotation 0.5773501691895792 0.5773501691895792 0.577350469189667 2.0943951
+      children [
+        CadShape {
+          url [
+            "CameraMount_V2.dae"
+          ]
+        }
+      ]
+    }
+  ]
+}

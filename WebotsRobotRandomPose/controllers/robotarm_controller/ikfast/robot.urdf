@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<robot name="C:/Users/Vékony/Desktop/RobotIRB140WithoutGripper.urdf" xmlns:xacro="http://ros.org/wiki/xacro">
+  <link name="base_link">
+    <visual>
+      <origin xyz="-0.069261 0.07625 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.488522 0.1525 0.402152"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="-0.069261 0.07625 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.488522 0.1525 0.402152"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rm_base" type="revolute">
+    <parent link="base_link"/>
+    <child link="link1"/>
+    <axis xyz="0 1 0"/>
+    <limit effort="10000" lower="-3.1416" upper="3.1416" velocity="10"/>
+    <origin xyz="0 0 0" rpy="0 0 0"/>
+  </joint>
+  <link name="link1">
+    <visual>
+      <origin xyz="0.018898 0.27825 -0.0359" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.346769 0.3475 0.3368"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.018898 0.27825 -0.0359" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.346769 0.3475 0.3368"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rm_axis1" type="revolute">
+    <parent link="link1"/>
+    <child link="link2"/>
+    <axis xyz="0 0 1"/>
+    <limit effort="10000" lower="-1.5708" upper="1.9199" velocity="10"/>
+    <origin xyz="0.07 0.352 -0.1145" rpy="0 0 0"/>
+  </joint>
+  <link name="link2">
+    <visual>
+      <origin xyz="-0.008 0.189467 0.15325" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.182 0.515065 0.2735"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="-0.008 0.189467 0.15325" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.182 0.515065 0.2735"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rm_axis2" type="revolute">
+    <parent link="link2"/>
+    <child link="link3"/>
+    <axis xyz="0 0 1"/>
+    <limit effort="10000" lower="-0.8727" upper="4.0143" velocity="10"/>
+    <origin xyz="0 0.36 0.0565" rpy="0 0 0"/>
+  </joint>
+  <link name="link3">
+    <visual>
+      <origin xyz="0.044673 -0.003 0.057" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.387653 0.2 0.168"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.044673 -0.003 0.057" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.387653 0.2 0.168"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rm_axis3" type="revolute">
+    <parent link="link3"/>
+    <child link="link4"/>
+    <axis xyz="1 0 0"/>
+    <limit effort="10000" lower="-3.4907" upper="3.4907" velocity="10"/>
+    <origin xyz="0.2185 0 0.058" rpy="0 0 0"/>
+  </joint>
+  <link name="link4">
+    <visual>
+      <origin xyz="0.10875 0 -0.002763" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.2175 0.112 0.134475"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.10875 0 -0.002763" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.2175 0.112 0.134475"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rm_axis4" type="revolute">
+    <parent link="link4"/>
+    <child link="link5"/>
+    <axis xyz="0 0 1"/>
+    <limit effort="10000" lower="-2.0071" upper="2.0071" velocity="10"/>
+    <origin xyz="0.1615 0 -0.016" rpy="0 0 0"/>
+  </joint>
+  <link name="link5">
+    <visual>
+      <origin xyz="0 -0.000006 0.016" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.0846 0.084588 0.032"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0 -0.000006 0.016" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.0846 0.084588 0.032"/>
+      </geometry>
+    </collision>
+  </link>
+  <joint name="rm_axis5" type="revolute">
+    <parent link="link5"/>
+    <child link="link6"/>
+    <axis xyz="1 0 0"/>
+    <limit effort="10000" lower="-6.9813" upper="6.9813" velocity="10"/>
+    <origin xyz="0.0395 0 0.016" rpy="0 0 0"/>
+  </joint>
+  <link name="link6">
+    <visual>
+      <origin xyz="0.01275 0 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.0255 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0.01275 0 0" rpy="0 0 0"/>
+      <geometry>
+        <box size="0.0255 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+</robot>
